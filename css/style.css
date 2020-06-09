@@ -1,0 +1,10 @@
+body{
+  font-family: 'Arvo', serif;
+}
+
+/*.height{
+  height: 1000px;
+}*/
+.height{
+  min-height: 100vh;
+}
