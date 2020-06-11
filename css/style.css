@@ -20,5 +20,9 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed; */
+}
+
+#filer{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url("../img/projects-1.jpeg")center/cover no-repeat fixed;
 
 }
